@@ -1,33 +1,41 @@
-## Welcome to GitHub Pages
+# Добро пожаловать на бесполезный сайт Tettaomicron'а!
 
-You can use the [editor on GitHub](https://github.com/Tettaomicron/tettaomicron.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Ссылка для разработчика, великого меня.](https://github.com/Tettaomicron/tettaomicron.github.io/edit/master/README.md)
 
+##### Не читай это текст, не ломай голову!
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Прочитал? А я предупреждал!
+
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your writing.
+**Markdown** - это легкий и простой в использовании синтаксис для писания.
 
-markdown
+Это синтаксис **MarkDown**
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Я текст и я огромный!
+## Да, я чуть меньше, но еще велик!
+### Неужели я так быстро уменьшаюсь?
+#### Пощадите, я уже так мал!
+##### Разве так можно уменьшать текст?
+###### Это минимальный размер?
+####### Эта строка ответит на предыдущий вопрос.
 
-- Bulleted
-- List
+- Маркированный
+- Лист
 
-1. Numbered
-2. List
+1. Пронумерованный
+2. Лист
 
-**Bold** and _Italic_ and `Code` text
+Обычный текст, **Полужирный**, _Курсивный_, `Кусок кода`, *А это тогда какой?*
 
-[Link](url) and ![Image](src)
-[My profile](https://github.com/Tettaomicron) and ![Image](https://ak3.picdn.net/shutterstock/videos/13656743/thumb/1.jpg)
+[Мой профиль на GitHub](https://github.com/Tettaomicron)
+![Импорт изображения по ссылке](https://ak3.picdn.net/shutterstock/videos/13656743/thumb/1.jpg)
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Для дополнительных сведений смотрите [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
