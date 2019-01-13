@@ -24,6 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+[My profile](https://github.com/Tettaomicron) and ![Image](https://ak3.picdn.net/shutterstock/videos/13656743/thumb/1.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
