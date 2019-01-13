@@ -2,15 +2,15 @@
 
 [Ссылка для разработчика, великого меня.](https://github.com/Tettaomicron/tettaomicron.github.io/edit/master/README.md)
 
-##### Не читай это текст, не ломай голову!
+##### Не читай этот текст, не ломай голову!
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 #### Прочитал? А я предупреждал!
 
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing.
-**Markdown** - это легкий и простой в использовании синтаксис для писания.
+ Markdown is a lightweight and easy-to-use syntax for styling your writing.
+ **Markdown** - это легкий и простой в использовании синтаксис для писания.
 
 Это синтаксис **MarkDown**
 Syntax highlighted code block
